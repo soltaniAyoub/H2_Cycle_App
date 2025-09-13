@@ -100,7 +100,7 @@ H2_Cycle_App/
 🔹 International deployment beyond Tunisia
 
 ## 👨‍💻 Contributors
-Ayoub Soltani – Lead Developer & Project Founder
+Ayoub Soltani – App Developer 
 
 H₂Cycle Team – Sustainability & Business Strategy
 
