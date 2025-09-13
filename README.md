@@ -71,18 +71,17 @@ H2_Cycle_App/
 │   ├── fonts/
 │   └── animations/
 │
-├── docs/
-│   ├── screenshots/
-│   │   ├── login.png
-│   │   ├── home.png
-│   │   ├── qr_scan.png
-│   │   └── rewards.png
-│   └── demo_video.mp4   
+├── login.jpg
+├── home.jpg
+├── qr.jpg
+├──rewards.jpg
+├──demo_video.mp4  
 │
 ├── .gitignore
 ├── pubspec.yaml
 ├── README.md
 └── LICENSE
+
 
 ## 🖼️ Screenshots
 | Login Page                           | Home Dashboard                     | QR Scan                             | Rewards                                  |
