@@ -50,67 +50,39 @@ H2_Cycle_App/
 ├── lib/
 
 │   ├── main.dart
-
 │   ├── routes.dart
-
 │   ├── app_state.dart
-
 │   ├── pages/
-
 │   │   ├── login_page.dart
-
 │   │   ├── register_page.dart
-
 │   │   ├── home_page.dart
-
 │   │   ├── recycle_page.dart
-
 │   │   ├── map_page.dart
-
 │   │   ├── rewards_page.dart
-
 │   │   ├── profile_page.dart
-
 │   │   ├── wallet_page.dart
-
 │   │   └── edit_profile_page.dart
-
 │   └── widgets/
-
 │       ├── h2cycle_logo.dart
-
 │       ├── primary_button.dart
-
 │       └── custom_card.dart
 │
 ├── assets/
-
 │   ├── images/
-
 │   ├── fonts/
-
 │   └── animations/
 │
 ├── docs/
-
 │   ├── screenshots/
-
 │   │   ├── login.png
-
 │   │   ├── home.png
-
 │   │   ├── qr_scan.png
-
 │   │   └── rewards.png
-
-│   └── demo_video.mp4   (optional for jury)
+│   └── demo_video.mp4   
 │
 ├── .gitignore
-
 ├── pubspec.yaml
-
 ├── README.md
-
 └── LICENSE
 
 ## 🖼️ Screenshots
