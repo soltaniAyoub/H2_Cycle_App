@@ -88,7 +88,7 @@ H2_Cycle_App/
 ## 🖼️ Screenshots
 | Login Page                           | Home Dashboard                     | QR Scan                             | Rewards                                  |
 | ------------------------------------ | ---------------------------------- | ----------------------------------- | ---------------------------------------- |
-| ![Login](login.jpg) | ![Home](home.jpg) | ![QR](qr_scan.jpg) | ![Rewards](rewards.jpg) |
+| ![Login](login.jpg) | ![Home](home.jpg) | ![QR](qr.jpg) | ![Rewards](rewards.jpg) |
 
 ## 🚀 Future Roadmap
 🔹 Machine Learning for better waste recognition
