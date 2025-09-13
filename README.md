@@ -1,21 +1,98 @@
-# 🌍 H₂Cycle – Smart Recycling & Hydrogen Rewards App  
+# ♻️ H₂Cycle – Smart Recycling & Hydrogen Rewards App
 
 A mobile app that connects **smart plastic collection machines** with users who want to recycle.  
 Our innovation: **turning plastic waste into hydrogen fuel**, while rewarding users with points and prizes.  
 
 ---
 
-## ⚙️ Setup Instructions  
+## 📌 Project Overview
+The **H₂Cycle App** allows users to:
+- Locate the nearest smart collection machines.
+- Deposit plastic waste and earn rewards instantly.
+- Track their environmental impact (CO₂ saved, kg of plastic recycled).
+- Redeem points through partner companies.
+- Contribute to the production of hydrogen energy from waste.
 
-### 1️⃣ Requirements  
-- Flutter SDK (≥ 3.0)  
-- Dart (≥ 2.17)  
-- Firebase Project (with Authentication & Firestore enabled)  
-- Android Studio / VSCode with Flutter extension  
+This project is part of our **startup journey** combining **IoT, green tech, and circular economy**.
 
-### 2️⃣ Installation  
-Clone the repo and install dependencies:  
-```bash
-git clone https://github.com/your-username/h2cycle-app.git
-cd h2cycle-app
-flutter pub get
+## ⚙️ Setup Instructions
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/YourUsername/H2_Cycle_App.git
+   cd H2_Cycle_App
+2. Install dependencies
+   ```bash
+    flutter pub get
+4. Add Firebase config files
+   .) google-services.json (for Android → /android/app/)
+   .) GoogleService-Info.plist (for iOS → /ios/Runner/)
+5. Run the app
+   ```bash
+   flutter run
+## ✨ Features
+✅ User authentication (Email & Google Sign-In)
+✅ Smart machine connection via QR code
+✅ Real-time points & rewards system
+✅ Interactive map to locate machines
+✅ Recycling history & environmental impact tracker
+✅ Wallet integration for points & rewards
+✅ Modern UI with Flutter & Firebase backend
+
+## 📂 Folder Structure
+H2_Cycle_App/
+│
+├── lib/
+│   ├── main.dart
+│   ├── routes.dart
+│   ├── app_state.dart
+│   ├── pages/
+│   │   ├── login_page.dart
+│   │   ├── register_page.dart
+│   │   ├── home_page.dart
+│   │   ├── recycle_page.dart
+│   │   ├── map_page.dart
+│   │   ├── rewards_page.dart
+│   │   ├── profile_page.dart
+│   │   ├── wallet_page.dart
+│   │   └── edit_profile_page.dart
+│   └── widgets/
+│       ├── h2cycle_logo.dart
+│       ├── primary_button.dart
+│       └── custom_card.dart
+│
+├── assets/
+│   ├── images/
+│   ├── fonts/
+│   └── animations/
+│
+├── docs/
+│   ├── screenshots/
+│   │   ├── login.png
+│   │   ├── home.png
+│   │   ├── qr_scan.png
+│   │   └── rewards.png
+│   └── demo_video.mp4   (optional for jury)
+│
+├── .gitignore
+├── pubspec.yaml
+├── README.md
+└── LICENSE
+
+## 🖼️ Screenshots
+| Login Page                           | Home Dashboard                     | QR Scan                             | Rewards                                  |
+| ------------------------------------ | ---------------------------------- | ----------------------------------- | ---------------------------------------- |
+| ![Login](docs/screenshots/login.png) | ![Home](docs/screenshots/home.png) | ![QR](docs/screenshots/qr_scan.png) | ![Rewards](docs/screenshots/rewards.png) |
+
+## 🚀 Future Roadmap
+🔹 Machine Learning for better waste recognition.
+🔹 Carbon credit trading system for enterprises.
+🔹 Blockchain integration for reward transparency.
+🔹 Expansion to other waste streams (glass, cans, e-waste).
+🔹 International deployment beyond Tunisia.
+
+## 👨‍💻 Contributors
+Ayoub Soltani – Lead Developer & Project Founder
+H₂Cycle Team – Sustainability & Business Strategy
+
+## 📜 License
+This project is licensed under the MIT License – feel free to use and adapt with attribution.
