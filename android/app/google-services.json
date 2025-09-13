@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066996141404",
+    "project_id": "h2-cycle-app",
+    "storage_bucket": "h2-cycle-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066996141404:android:0e1efb0c91e21aa3eac599",
+        "android_client_info": {
+          "package_name": "com.example.h2cycle_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsU418m0eR2mct9YIAajsxksOJrZLpug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

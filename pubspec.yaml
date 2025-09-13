@@ -1,0 +1,70 @@
+name: h2cycle_flutter_ui
+description: "H₂Cycle - Eco recycling & rewards app UI in Flutter"
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^3.1.0
+
+  # State management
+  provider: ^6.0.5
+
+  # Navigation
+  go_router: ^14.2.0
+
+  # UI / Fonts
+  google_fonts: ^6.2.1
+
+  # QR Code
+  qr_flutter: ^4.1.0
+
+  # Maps (OpenStreetMap)
+  flutter_map: ^7.0.0
+  latlong2: ^0.9.0
+
+  # Dates formatting
+  intl: ^0.19.0
+  firebase_core: ^4.1.0
+  cloud_firestore: ^6.0.1
+  firebase_storage: ^13.0.1
+  firebase_messaging: ^16.0.1
+  firebase_auth: ^6.0.2
+  google_sign_in: ^7.1.1
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/h2cycle_logo.png
+    - assets/images/h2cycle_logo_sans_titre.png
+    - assets/images/google_logo.png
+    - assets/images/rewards/bike_image.jpg
+    - assets/images/rewards/bottle_water.jpg
+    - assets/images/rewards/coffee_image.jpg
+    - assets/images/rewards/food_image.jpeg
+    - assets/images/rewards/gift_card_image.jpg
+    - assets/images/rewards/gift_image.jpg
+    - assets/animations/Recycle_icon_animation.json
+    - assets/animations/Bottle_power_recycling.json
+    - assets/animations/Energy_robot.json
+    - assets/animations/Login.json
+
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/h2cycle_logo_sans_titre.png"
+
+
