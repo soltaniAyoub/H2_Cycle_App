@@ -1,16 +1,21 @@
-# h2cycle_app
+# 🌍 H₂Cycle – Smart Recycling & Hydrogen Rewards App  
 
-A new Flutter project.
+A mobile app that connects **smart plastic collection machines** with users who want to recycle.  
+Our innovation: **turning plastic waste into hydrogen fuel**, while rewarding users with points and prizes.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ⚙️ Setup Instructions  
 
-A few resources to get you started if this is your first Flutter project:
+### 1️⃣ Requirements  
+- Flutter SDK (≥ 3.0)  
+- Dart (≥ 2.17)  
+- Firebase Project (with Authentication & Firestore enabled)  
+- Android Studio / VSCode with Flutter extension  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2️⃣ Installation  
+Clone the repo and install dependencies:  
+```bash
+git clone https://github.com/your-username/h2cycle-app.git
+cd h2cycle-app
+flutter pub get
