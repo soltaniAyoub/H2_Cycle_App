@@ -30,9 +30,9 @@ This project is part of our **startup journey** combining **IoT, green tech, and
    ```bash
    flutter run
 ## ✨ Features
-✅ User authentication (Email & Google Sign-In)
-✅ Smart machine connection via QR code
-✅ Real-time points & rewards system
+✅ User authentication (Email & Google Sign-In);
+✅ Smart machine connection via QR code;
+✅ Real-time points & rewards system;
 ✅ Interactive map to locate machines
 ✅ Recycling history & environmental impact tracker
 ✅ Wallet integration for points & rewards
