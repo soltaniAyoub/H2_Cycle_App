@@ -48,7 +48,6 @@ This project is part of our **startup journey** combining **IoT, green tech, and
 H2_Cycle_App/
 │
 ├── lib/
-
 │   ├── main.dart
 │   ├── routes.dart
 │   ├── app_state.dart
