@@ -90,14 +90,19 @@ H2_Cycle_App/
 | ![Login](docs/screenshots/login.png) | ![Home](docs/screenshots/home.png) | ![QR](docs/screenshots/qr_scan.png) | ![Rewards](docs/screenshots/rewards.png) |
 
 ## 🚀 Future Roadmap
-🔹 Machine Learning for better waste recognition.
-🔹 Carbon credit trading system for enterprises.
-🔹 Blockchain integration for reward transparency.
-🔹 Expansion to other waste streams (glass, cans, e-waste).
-🔹 International deployment beyond Tunisia.
+🔹 Machine Learning for better waste recognition
+
+🔹 Carbon credit trading system for enterprises
+
+🔹 Blockchain integration for reward transparency
+
+🔹 Expansion to other waste streams (glass, cans, e-waste)
+
+🔹 International deployment beyond Tunisia
 
 ## 👨‍💻 Contributors
 Ayoub Soltani – Lead Developer & Project Founder
+
 H₂Cycle Team – Sustainability & Business Strategy
 
 ## 📜 License
